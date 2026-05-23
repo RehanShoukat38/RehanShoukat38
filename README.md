@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:sattirehan709@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-6366f1?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Text%20Me-6366f1?style=flat-square&logo=gmail" />
   </a>
 </p>
 
